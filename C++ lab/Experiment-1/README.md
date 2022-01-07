@@ -7,7 +7,7 @@ appeared in the examination. Declare the class of name, Roll No. and grade. Crea
 array of class objects. Read and display the contents of the array.
 
 ##
-**_Step-by-step process of Experiment_**
+**_Step-by-step process of Experiment_**<br/>
 1.Include the required header files (iostream.h and string).<br/>
 2.Create a class (student) with the following class members as public members.<br/>
 name, roll_no and grade as data members.<br/>
