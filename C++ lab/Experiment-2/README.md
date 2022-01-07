@@ -7,7 +7,7 @@ Employee number, Employee name, Basic, DA, IT, Net Salary and print data
 members
 
 ##
-**_Step-by-step process of the experiment:_**<br/>
+**_Step-by-step process of the experiment:_**
 1. Include the required header files (iostream.h).<br/>
 2.Create a class (EMPLOYEE) with the following members as public members.
 name, id, basic, DA, IT, and net_salary as data members.
