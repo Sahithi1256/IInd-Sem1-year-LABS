@@ -9,8 +9,8 @@ members
 ##
 **_Step-by-step process of the experiment:_**<br/>
 1. Include the required header files (iostream.h).<br/>
-2.Create a class (EMPLOYEE) with the following members as public members.<br/>
-name, id, basic, DA, IT, and net_salary as data members.<br/>
+2.Create a class (EMPLOYEE) with the following members as public members.
+name, id, basic, DA, IT, and net_salary as data members.
 void get_details(), void print_details()  as member functions.<br/>
 3.Create a main() method.<br/>
 4.Create an object (e) of the above class inside the main() method.<br/>
