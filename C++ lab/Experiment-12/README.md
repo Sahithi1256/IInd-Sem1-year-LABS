@@ -2,8 +2,7 @@
 **_EXPERIMENT-12_**
 ##
 **_Aim of the Experiment:_**<br/>
-12a)Write a C++  Program to illustrate early binding.
-12b)Write a C++  Program to illustrate late binding <br/>
+12a)Write a C++  Program to illustrate early binding.<br/>12b)Write a C++  Program to illustrate late binding <br/>
 12c)Write a C++  Program to illustrate  concept of Virtual Functions<br/>
 12d)Write a C++  Program on Abstract classes 
 ##
